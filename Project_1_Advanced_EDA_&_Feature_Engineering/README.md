@@ -1,4 +1,4 @@
-# E-Commerce Sales Data Cleaning and Feature Engineering
+# Project_1_Advanced_EDA_&_Feature_Engineering
 
 ## Project Overview
 
@@ -91,7 +91,7 @@ Performed visual analysis using graphs and charts to understand:
 
 ## Files Included
 
-* `Ecommerce_Data_Cleaning.ipynb` – Complete Google Colab notebook
+* `Project_1_Advanced_EDA_&_Feature_Engineering.ipynb` – Complete Google Colab notebook
 * `Dataset for Data Analytics.csv` – Raw e-commerce dataset
 * `Cleaned_Dataset.csv` – Processed dataset ready for machine learning
 
